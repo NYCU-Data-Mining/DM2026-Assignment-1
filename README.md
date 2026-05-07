@@ -1,5 +1,4 @@
-# NYCU Data Mining(Spring 2026) Assignment 1
-You can fork this repository
+# NYCU Data Mining(Spring 2026) 
 
 ## File Structure
 
@@ -16,4 +15,14 @@ You can fork this repository
 	├── linear_model.py                      #3. Real World Classification
 	├── metrics.py                           #1. Linear Regression, 2. Logistic Regression
 	└── utils.py                             
+```
+
+## Assignment 2
+
+```text
+.
+├── Real_World_Classification.ipynb          # Q1
+├── data/NYCU_Iris.csv                       # Q1 data
+├── Datamining_prob2_5.ipynb                 # Q2-Q5
+└── mobile_price.csv                         # Q2-Q5 data
 ```
